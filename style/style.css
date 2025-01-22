@@ -1,0 +1,59 @@
+body{
+    text-align: center;
+    line-height: 1.6;
+    font-family: 'Arial', sans-serif;
+    color: #333;
+    margin: 0px;
+}
+
+h2 {
+    font-size: 2.5rem;
+    margin-bottom: 20px;
+    color: #222;
+}
+
+div img{
+    vertical-align: middle;
+    border-radius: 50%;
+}
+
+footer {
+    background-color: #111;
+    color: #ccc;
+}
+
+footer p {
+    margin: 0;
+    font-size: 0.9rem;
+}
+
+section main article p{
+    font-size: larger;
+}
+
+section article h1{
+    font-size: 50px;
+}
+
+.main{
+    background-color: #f7f7f7;
+}
+
+.main h1{
+    font-size: 3rem;
+    color: #222;
+}
+
+.main p{
+    font-size: 1.2rem;
+    color: #555;
+}
+
+.social-bar a {
+    text-decoration: none;
+}
+
+.social-bar a:hover {
+    color: #ff6f61; 
+    text-decoration: none; 
+}
