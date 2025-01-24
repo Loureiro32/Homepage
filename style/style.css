@@ -12,10 +12,6 @@ h2 {
     color: #222;
 }
 
-.pfp{
-    border-radius: 50%;
-}
-
 footer {
     background-color: #111;
     color: #ccc;
@@ -24,14 +20,6 @@ footer {
 footer p {
     margin: 0;
     font-size: 0.9rem;
-}
-
-section main article p{
-    font-size: larger;
-}
-
-section article h1{
-    font-size: 50px;
 }
 
 .main{
@@ -48,6 +36,10 @@ section article h1{
     color: #555;
 }
 
+.main img{
+    border-radius: 50%;
+}
+
 .social-bar a {
     text-decoration: none;
 }
@@ -60,4 +52,8 @@ section article h1{
 .icons{
     width: 90px;
     height: 90px;
+}
+
+.articles{
+    display: flex;
 }
