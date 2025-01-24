@@ -12,8 +12,7 @@ h2 {
     color: #222;
 }
 
-div img{
-    vertical-align: middle;
+.pfp{
     border-radius: 50%;
 }
 
@@ -56,4 +55,9 @@ section article h1{
 .social-bar a:hover {
     color: #ff6f61; 
     text-decoration: none; 
+}
+
+.icons{
+    width: 90px;
+    height: 90px;
 }
