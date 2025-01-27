@@ -57,3 +57,10 @@ footer p {
 .articles{
     display: flex;
 }
+.container a img:hover{
+    transform: translateY(-10px);
+    transition: all 0.5s ease-in-out;
+}
+.container a img{
+    transition: all 0.5s ease-in-out;
+}
